@@ -1,1 +1,1 @@
-# belajar-github
+Halo! Ini repository pertama saya. 
